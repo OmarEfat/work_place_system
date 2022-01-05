@@ -39,6 +39,10 @@ When you enter this usercode and password, a Supervisor portal will open which w
 ![SUP_PORTAL](SUP_PORTAL.png)
 
 
+Assigning a task named - Do this. to Employee with usercode 12 will reflect back in the Employee portal with a pop-message will show informing that the task was added succesfully.
+
+![ASSIGN_TASN](ASSIGN_TASK.png)
+
 
 
 
