@@ -10,3 +10,6 @@ After running the software, you will recieve a login page which will ask for the
 **To test the software, please download both .exe file and .db file and try usercode: 10 and password 12.**
 
 In case you did that, you will open the IT portal - which is responsible for adding/removing employee from a company.
+
+![IT_PORTAL](IT_PORTAL.png)
+
