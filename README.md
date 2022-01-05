@@ -11,6 +11,8 @@ After running the software, you will recieve a login page which will ask for the
 
 In case you did that, you will open the IT portal - which is responsible for adding/removing employee from a company.
 
+Here is shown of all employee and their information - Usercode , password , type, and name. 
+
 ![IT_PORTAL](IT_PORTAL.png)
 
 As shown in the portal, there are 3 buttons : Add Employee , Delete Employee , and Refresh.
@@ -28,6 +30,15 @@ There are 3 types of Employee : IT , Supervisor, and Employee.
 ![EMPLOYEE_TYPES](TYPES_EMPLOYEE.png)
 
 In case of adding a new Employee of type *IT*, he/she will have an access to the same IT portal shown above and will be able to add or remove Employee.
+
+
+To try an Employee of type Supervisor, you can try usercode 11 and password 12 - It's the same information found in the table above.
+
+When you enter this usercode and password, a Supervisor portal will open which will show a combobox that contains all Employee - only regular Employee not supervisors or IT- and there will be a textfield that will ask for entering a task and there is a button for assigning. 
+
+![SUP_PORTAL](SUP_PORTAL.png)
+
+
 
 
 
