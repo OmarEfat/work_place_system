@@ -67,6 +67,11 @@ Returning back the supervisor portal, there is a button of completed tasks; the 
 There is also a button for emptying list. This will cause in deleting the whole database of completed items.
 
 
+Here are the schema and tables used in the database
+![TABLES](Number of tables.png)
+
+![TABLE1](TABLE1.png)
+![TABLE2](TABLE2.png)
 
 
 
