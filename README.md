@@ -16,6 +16,7 @@ In case you did that, you will open the IT portal - which is responsible for add
 As shown in the portal, there are 3 buttons : Add Employee , Delete Employee , and Refresh.
 
 Starting with
+
 ![ADD_BUTTON](ADD_BUTTON.png)
 
 It's responsible in adding any new employee to the company, therefore after selecting this option a new frame will be opened asking for the usercode - Primary key of the Employee database and it MUST be unique , I believe I should fix this part by making a series of number to avoid assigning a non-unique value - By the way, in case of trying to assign a non-unique value, it will not assign or overlap the old value since it will cause a SQL exception and the query will not run in the backend- 
