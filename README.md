@@ -23,4 +23,12 @@ It's responsible in adding any new employee to the company, therefore after sele
 
 ![ADD_FRAME](ADD_FRAME.png)
 
+There are 3 types of Employee : IT , Supervisor, and Employee.
+
+[!EMPLOYEE_TYPES](TYPES_EMPLOYEE.png)
+
+In case of adding a new Employee of type *IT*, he/she will have an access to the same IT portal shown above and will be able to add or remove Employee.
+
+
+
 
