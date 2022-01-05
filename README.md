@@ -29,6 +29,14 @@ There are 3 types of Employee : IT , Supervisor, and Employee.
 
 ![EMPLOYEE_TYPES](TYPES_EMPLOYEE.png)
 
+Going to the account of usercode 12 and password 12 - Employee with usercode 12, the new task named " Do this " will be reflected in the portal.
+
+![EMP_12](EMP_12.png)
+
+As shown there, there are 3 tasks assigned to this Employee.
+
+After completeing the task, the employee can simply highlight the task completed, then clicks on completed.
+
 In case of adding a new Employee of type *IT*, he/she will have an access to the same IT portal shown above and will be able to add or remove Employee.
 
 
@@ -41,7 +49,23 @@ When you enter this usercode and password, a Supervisor portal will open which w
 
 Assigning a task named - Do this. to Employee with usercode 12 will reflect back in the Employee portal with a pop-message will show informing that the task was added succesfully.
 
-![ASSIGN_TASN](ASSIGN_TASK.png)
+![ASSIGN_TASK](ASSIGN_TASK.png)
+
+
+After clicking completed, a message will pop-up notifying the employee that supervisor will be notified with completed task.
+![SUP_NOT](SUP_NOT.png)
+
+There are another button which is Refresh. It's responsible for refreshing the frame to update the portal to make sure receivng up-to-date tasks.
+
+So after clicking refresh here, we can see that Do this will be removed from the list since it's completed by the Employee.
+
+![EMP_UP](EMP_UP.png)
+
+Returning back the supervisor portal, there is a button of completed tasks; the supervisor will be able to see the tasks that are completed by the employee
+![SUP_COM](SUP_COM.png)
+
+There is also a button for emptying list. This will cause in deleting the whole database of completed items.
+
 
 
 
