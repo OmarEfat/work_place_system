@@ -72,6 +72,7 @@ Here are the schema and tables used in the database
 
 ![TABLE1](TABLE1.png)
 ![TABLE2](TABLE2.png)
+![TABLE3](workplace diagram.jpg)
 
 
 
